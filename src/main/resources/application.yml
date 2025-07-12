@@ -1,0 +1,11 @@
+spring:
+  profiles:
+    active: prod
+
+weather:
+  api:
+    key: c080f17b38a57dc28ea826e00967fbf9
+
+
+
+weather.api.key: c080f17b38a57dc28ea826e00967fbf9
