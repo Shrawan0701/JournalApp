@@ -1,18 +1,22 @@
-JournalApp
+# 📝 Journal App
 
-A personal journaling application built with Spring Boot and MongoDB.
+A personal journaling application built with Spring Boot and MongoDB. It allows users to securely register, log in, and manage their daily journal entries through a RESTful API.
 
-## 📌 Features
+## 🚀 Features
 
-- Add, edit, delete daily journal entries
-- Save data in MongoDB Atlas
-- RESTful APIs with Spring Boot
-- Profiles for dev and prod
+- User Registration & Login (JWT-based authentication)
+- Secure APIs with Spring Security
+- Create, Read, Update, and Delete (CRUD) journal entries
+- MySQL database integration with JPA/Hibernate
+- Error handling and custom authentication entry points
+- Postman-tested endpoints for easy integration
 
-## 🚀 Technologies Used
 
-- Java 17
-- Spring Boot
-- Spring Data MongoDB
-- MongoDB Atlas
-- Maven
+
+## 🛠️ Technologies Used
+
+- **Backend:** Java, Spring Boot, Spring Security (JWT), REST API
+- **Database:** MySQL, JPA/Hibernate
+- **Tools:** Postman, Git, GitHub, Maven
+- **IDE:** IntelliJ IDEA
+
