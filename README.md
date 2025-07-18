@@ -16,7 +16,6 @@ A personal journaling application built with Spring Boot and MongoDB. It allows 
 ## 🛠️ Technologies Used
 
 - **Backend:** Java, Spring Boot, Spring Security (JWT), REST API
-- **Database:** MySQL, JPA/Hibernate
+- **Database:** MongoDB
 - **Tools:** Postman, Git, GitHub, Maven
-- **IDE:** IntelliJ IDEA
 
