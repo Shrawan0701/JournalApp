@@ -7,7 +7,7 @@ A personal journaling application built with Spring Boot and MongoDB. It allows 
 - User Registration & Login (JWT-based authentication)
 - Secure APIs with Spring Security
 - Create, Read, Update, and Delete (CRUD) journal entries
-- MySQL database integration with JPA/Hibernate
+- MongoDB database integration 
 - Error handling and custom authentication entry points
 - Postman-tested endpoints for easy integration
 
